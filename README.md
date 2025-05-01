@@ -1,4 +1,39 @@
-# 🧠 Machine Minds: Behavioral Assessment of LLM Therapists
+<h1 align="center">🧠 Machine Minds — Behavioral Assessment of LLM Therapists</h1>
+
+<p align="center">
+  Evaluating how well popular Language Models perform as <strong>therapeutic conversational agents</strong>.
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
+  <img alt="Final Year Project" src="https://img.shields.io/badge/Academic-Final%20Year%20Project-purple">
+</p>
+
+<p align="center">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" height="30"/>
+  &nbsp;
+  <img src="https://static.xx.fbcdn.net/rsrc.php/y9/r/tL_v571NdZ0.svg" alt="LLaMA" height="30"/>
+  &nbsp;
+  <img src="https://huggingface.co/datasets/tiiuae/documentation-images/resolve/main/general/falco3-logo.png" alt="Falcon" height="30"/>
+  &nbsp;
+  <img src="https://ai.ls/assets/openai-logos/SVGs/openai-white-lockup.svg" alt="GPT-2" height="30"/>
+  &nbsp;
+  <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/643feeb67bc3fbde1385cc25/7vmYr2XwVcPtkLzac_jxQ.png" alt="StableLM" height="30"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" height="30"/>
+</p>
+
+---
+
+***Machine Minds*** is our final year undergraduate research project that explores whether Large Language Models (LLMs) like **LLaMA**, **Falcon**, **GPT-2**, **StableLM**, and **Gemini** can respond appropriately in simulated mental health scenarios.
+
+We fine-tuned and evaluated these models using a dataset grounded in **13 psychotherapy techniques**, analyzing them through:
+- **Semantic similarity (SBERT)**
+- **Sentiment analysis (VADER)**
+- **Human validation (peer feedback)**
+
+Can machines really offer empathy? Let’s find out.
+
 
 ---
 
@@ -147,3 +182,12 @@ llm-therapy-evaluation/
 ├── report/             # Final PDF report and LaTeX sources
 ├── requirements.txt    # Python dependency file
 └── README.md           # This file
+```
+### Feel free to drop a text  
+<p align="left">
+<a href="https://www.linkedin.com/in/shashankkamble97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankkamble97" height="30" width="40" /></a>
+<a href="https://instagram.com/shashaaannk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashaaannk" height="30" width="40" />
+</a>
+
+##
+#### This project is licensed under the MIT License - see the [LICENSE](https://github.com/Shashankdotio/llm-therapist-evaluation-/blob/main/LICENSE) file for details.  
