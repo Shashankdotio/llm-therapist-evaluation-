@@ -12,7 +12,7 @@ Original file is located at
 !pip install torch transformers datasets accelerate peft trl bitsandbytes
 
 from huggingface_hub import login
-login(token="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")  # Replace with your actual token
+login(token="your hf token")  # Replace with your actual token
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import LoraConfig, get_peft_model
