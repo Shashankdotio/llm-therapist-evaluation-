@@ -178,7 +178,6 @@ llm-therapy-evaluation/
 ├── data/               # Fine-tuning and evaluation datasets
 ├── models/             # Model notebooks (LLaMA, Falcon, GPT-2, etc.)
 ├── evaluation/         # SBERT, VADER, PCA, Heatmap visualizations
-├── presentation/       # Slides, poster, and competition materials
 ├── report/             # Final PDF report and LaTeX sources
 ├── requirements.txt    # Python dependency file
 └── README.md           # This file
